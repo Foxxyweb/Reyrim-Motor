@@ -156,7 +156,7 @@ const Beranda = () => {
                             </div>
                         </div>
                         <div className={`promo-slide ${currentSlide === 1 ? 'active' : ''}`}>
-                            <img src="https://www.seva.id/blog/bmw-mobil-keren-buat-kamu-yang-ingin-gaya-dan-performa-kg" alt="Promo Gadai" />
+                            <img src="https://www.seva.id/wp-content/uploads/2023/10/ADI_BMW-Cars-14-1.jpg" alt="Promo Gadai" />
                             <div className="promo-overlay">
                                 <div className="promo-text">
                                     <span className="promo-badge promo-badge-2">💎 BUNGA SPESIAL</span>
