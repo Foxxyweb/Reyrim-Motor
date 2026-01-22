@@ -93,7 +93,7 @@ const Beranda = () => {
                 <div className="container">
                     <div className="header-content">
                         <div className="logo">
-                            <h1><i className="fas fa-car" aria-hidden="true"></i> Reyrim Motor.id</h1>
+                            <h1><i className="fas fa-car" aria-hidden="true"></i> Reyrim Motor</h1>
                             <p>Jual Beli & Gadai Kendaraan</p>
                         </div>
                         
@@ -333,7 +333,7 @@ const Beranda = () => {
                             </div>
                         </div>
                         <div className="about-image">
-                            <img src="https://i.ibb.co.com/jv9sQL31/dwada.jpg" alt="Tim Reyrim Motor.id" />
+                            <img src="https://i.ibb.co.com/jv9sQL31/dwada.jpg" alt="Tim Reyrim Motor" />
                         </div>
                     </div>
                 </div>
